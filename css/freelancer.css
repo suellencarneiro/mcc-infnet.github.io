@@ -40,7 +40,7 @@ hr.star-primary {
   max-width: 250px;
   margin: 25px auto 30px;
 }
-img-responsive{border-radius: 15%}
+
 hr.star-light:after,
 hr.star-primary:after {
   content: "\f005";
@@ -80,6 +80,7 @@ header .container {
 header img {
   display: block;
   margin: 0 auto 20px;
+  border-radius: 15%
 }
 header .intro-text .name {
   display: block;
