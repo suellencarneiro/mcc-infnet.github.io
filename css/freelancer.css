@@ -106,7 +106,7 @@ header .intro-text .skills {
   }
 }
 .navbar-custom {
-  background: #abddd8;
+  background: #2C3E50;
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 700;
@@ -131,7 +131,7 @@ header .intro-text .skills {
   color: white;
 }
 .navbar-custom .navbar-nav li a:hover {
-  color: #abddd8;
+  color: #2C3E50;
   outline: none;
 }
 .navbar-custom .navbar-nav li a:focus,
@@ -140,13 +140,13 @@ header .intro-text .skills {
 }
 .navbar-custom .navbar-nav li.active a {
   color: white;
-  background: #abddd8;
+  background: #2C3E50;
 }
 .navbar-custom .navbar-nav li.active a:hover,
 .navbar-custom .navbar-nav li.active a:focus,
 .navbar-custom .navbar-nav li.active a:active {
   color: white;
-  background: #abddd8;
+  background: #2C3E50;
 }
 .navbar-custom .navbar-toggle {
   color: white;
